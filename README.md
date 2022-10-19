@@ -1,16 +1,33 @@
-### Hi there 👋
+# Olá, me chamo Vitor Prado de Santana :wave:
 
-<!--
-**VitorPradodeSantana/VitorPradodeSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formado em Análise e Desenvolvimento de Sistemas, trabalho atualmente como analista de suporte, porém estou estudando para ser um desenvolvedor Front-End :computer:
 
-Here are some ideas to get you started:
+Atualmente estou estudando sobre o universo do React/React Native, tenho conhecimento sólido em HTML, CSS, JAVASCRIPT, SQL e um pouco de PHP também :smiley:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Acesse meu repositorio >
+[Repositório](https://github.com/VitorPradodeSantana)
+
+:chart_with_upwards_trend: ## Minhas estatisticas
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorPradodeSantana)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contatos >
+
+<div>
+<a href = "mailto:vitor_shotokan@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vitorpradodesantana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+ 
+:clipboard: ## Minhas skills >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
+
+
+          
+
+
