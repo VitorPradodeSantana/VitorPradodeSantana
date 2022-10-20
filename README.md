@@ -7,7 +7,8 @@ Atualmente estou estudando sobre o universo do React/React Native, tenho conheci
 ## Acesse meu repositorio >
 [Repositório](https://github.com/VitorPradodeSantana)
 
-:chart_with_upwards_trend: ## Minhas estatisticas
+:chart_with_upwards_trend: 
+## Minhas estatisticas
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorPradodeSantana)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,13 +19,14 @@ Atualmente estou estudando sobre o universo do React/React Native, tenho conheci
 <a href="https://www.linkedin.com/in/vitorpradodesantana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
  
-:clipboard: ## Minhas skills >
+:clipboard: 
+## Minhas skills >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="100" width="100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="100" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="100" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="100" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="100" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="100" width="100"/>
 
 
 
