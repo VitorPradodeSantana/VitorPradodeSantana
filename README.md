@@ -9,6 +9,7 @@ Atualmente estou estudando sobre o universo do React/React Native, tenho conheci
 
 :chart_with_upwards_trend: 
 ## Minhas estatisticas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorPradodeSantana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorPradodeSantana)](https://github.com/anuraghazra/github-readme-stats)
 
